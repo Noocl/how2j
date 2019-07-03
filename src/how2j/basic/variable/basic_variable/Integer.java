@@ -1,4 +1,4 @@
-package how2j.basic.variable;
+package how2j.basic.variable.basic_variable;
 
 public class Integer {
 
